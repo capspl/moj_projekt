@@ -1,5 +1,5 @@
 ---
-title:Fajny tytul
+Fajny tytul
 ---
 gofsjvkxosjd;
 
